@@ -1,2 +1,2 @@
 # CSegFormer
-The code will be coming soon
+The code will be release upon acceptance.
